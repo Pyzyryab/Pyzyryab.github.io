@@ -9,6 +9,7 @@
  * Copyright 2011-2020 The Bootstrap Authors
  * Copyright 2011-2020 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+ --primary: #bd5d38;
  */
 :root {
   --blue: #007bff;
@@ -24,7 +25,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #bd5d38;
+  --primary: #20c997;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
